@@ -1,0 +1,7 @@
+GROQ_API_KEY="your_groq_api_key"
+DOCUMENTS_DIR="path/to/docs_dir"
+VECTOR_STORE_DIR="path/to/doc_vector_store"
+COLLECTION_NAME="document_collection"
+MODEL_NAME="llama-3.3-70b-versatile"
+MODEL_TEMPERATURE=0.0
+CHAT_ENDPOINT_URL="http://localhost:8000/chat/answer"
