@@ -1,0 +1,47 @@
+[
+  {
+    "user_input": "What is evolution?",
+    "reference": "Evolution is the scientific theory describing how all life forms on Earth change over successive generations through alterations in their genetic material, leading to the diversity of life seen today.",
+    "retrieval_ground_truth": [
+      "Evolution is the gradual change in organisms over time",
+      "Natural selection is a mechanism of evolution where organisms with advantageous traits leave more offspring",
+      "Genetic mutations provide the variation that natural selection acts upon"
+    ]
+  },
+  {
+    "user_input": "Explain ecosystem in detail",
+    "reference": "An ecosystem is a community of living organisms (biotic community) interacting with the physical environment (abiotic factors) in a specific area. It includes all the organisms and their interactions with each other and the environment.",
+    "retrieval_ground_truth": [
+      "An ecosystem consists of living organisms and their physical environment",
+      "Biodiversity in ecosystems includes plants, animals, and microorganisms",
+      "Ecosystems involve food chains and food webs for energy flow"
+    ]
+  },
+  {
+    "user_input": "How do organisms adapt to their environment?",
+    "reference": "Organisms adapt to their environment through inherited traits that improve survival and reproduction. Adaptations develop over many generations through natural selection, where individuals with beneficial traits have higher survival rates and reproduce more successfully, passing these traits to offspring.",
+    "retrieval_ground_truth": [
+      "Adaptation is the process of becoming suited to an environment",
+      "Natural selection favors organisms with traits that improve survival",
+      "Adaptations can be structural, behavioral, or physiological"
+    ]
+  },
+  {
+    "user_input": "What role does photosynthesis play in ecosystems?",
+    "reference": "Photosynthesis is the fundamental process that converts light energy from the sun into chemical energy in the form of glucose, which serves as the primary energy source for virtually all life on Earth. It is the foundation of food chains and is performed by plants, algae, and some bacteria.",
+    "retrieval_ground_truth": [
+      "Photosynthesis converts solar energy into chemical energy",
+      "Photosynthesis produces oxygen as a byproduct essential for aerobic life",
+      "Plants are the primary producers that form the base of food chains"
+    ]
+  },
+  {
+    "user_input": "Explain the concept of biodiversity",
+    "reference": "Biodiversity refers to the variety of all living organisms, ecosystems, and genetic diversity within species. It is essential for ecosystem stability, resilience, and the provision of ecosystem services. High biodiversity enhances ecosystem productivity and reduces vulnerability to environmental changes.",
+    "retrieval_ground_truth": [
+      "Biodiversity includes genetic diversity, species diversity, and ecosystem diversity",
+      "Higher biodiversity increases ecosystem resilience and stability",
+      "Biodiversity provides humans with food, medicine, and other resources"
+    ]
+  }
+]
