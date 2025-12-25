@@ -1,0 +1,5 @@
+similarity_ratio: 0.0624
+token_overlap: 0.4231
+bleu: 0.0502
+rouge_l: 0.1921
+cosine_sim: 0.8009

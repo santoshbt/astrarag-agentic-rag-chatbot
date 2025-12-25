@@ -1,0 +1,68 @@
+[
+  {
+    "question":"What is evolution?",
+    "answer":"Evolution refers to the changes in flora and fauna that have occurred over millions of years on earth, and it is the study of the history of life forms on earth. It is considered a unique event in the history of the universe, and understanding it requires knowledge of the origin of life, the evolution of the earth, and the evolution of the universe itself.",
+    "ground_truths":"Evolution is the scientific theory describing how all life forms on Earth change over successive generations through alterations in their genetic material, leading to the diversity of life seen today.",
+    "similarity_ratio":0.0752688172,
+    "token_overlap":0.3571428571,
+    "source_files":[
+      "6. Evolution.pdf"
+    ],
+    "bleu":0.0350016416,
+    "rouge_l":0.2315789474,
+    "cosine_sim":0.8264192343
+  },
+  {
+    "question":"Explain ecosystem in detail",
+    "answer":"An ecosystem is a functional unit of nature where living organisms interact among themselves and also with the surrounding physical environment. It can vary greatly in size, from a small pond to a large forest or a sea. Ecosystems can be categorized into two basic types: terrestrial and aquatic. Terrestrial ecosystems include forests, grasslands, and deserts, while aquatic ecosystems include ponds, lakes, wetlands, rivers, and estuaries. Man-made ecosystems, such as crop fields and aquariums, also exist.\n\nThe structure of an ecosystem comprises abiotic and biotic components. Abiotic components include inorganic materials like air, water, and soil, while biotic components include producers, consumers, and decomposers. Each ecosystem has a characteristic physical structure resulting from the interaction among these components. Species composition and stratification are the two main structural features of an ecosystem.\n\nEcosystems have four important components: productivity, decomposition, energy flow, and nutrient cycling. Productivity refers to the rate of capture of solar energy or biomass production by producers. It can be primary, which is the rate of capture of solar energy by producers, or secondary, which is the rate of assimilation of food energy by consumers. Decomposition is the process by which complex organic compounds are converted into carbon dioxide, water, and inorganic nutrients by decomposers.\n\nEnergy flow in an ecosystem is unidirectional, starting with plants capturing solar energy and then transferring it to consumers and decomposers. This energy flow forms a food chain, where organisms of different trophic levels are connected for food or energy relationships. Nutrient cycling refers to the storage and movement of nutrient elements through the ecosystem, which can be gaseous or sedimentary.\n\nEcosystems also have ecological pyramids, which are graphical representations of the number or biomass of organisms at different trophic levels. These pyramids can be of numbers, biomass, or energy. However, they have limitations, such as not accounting for the same species belonging to multiple trophic levels or accommodating food webs.\n\nOverall, ecosystems are complex systems that involve the interaction of living and non-living components, and their study is essential for understanding the natural world and the impact of human activities on the environment.",
+    "ground_truths":"An ecosystem is a community of living organisms (biotic community) interacting with the physical environment (abiotic factors) in a specific area. It includes all the organisms and their interactions with each other and the environment.",
+    "similarity_ratio":0.0430839002,
+    "token_overlap":0.5517241379,
+    "source_files":[
+      "12. Ecosystem.pdf"
+    ],
+    "bleu":0.0137080945,
+    "rouge_l":0.1136950904,
+    "cosine_sim":0.7655463815
+  },
+  {
+    "question":"How do organisms adapt to their environment?",
+    "answer":"Organisms adapt to their environment through a process called natural selection, where those with characteristics that enable them to survive better in their environment outbreed others that are less-endowed to survive. This is also referred to as fitness, which ultimately refers to reproductive fitness, meaning those who are better fit leave more progeny than others. Additionally, organisms can also adapt through a process called convergent evolution, where different species develop similar characteristics in response to similar environmental pressures. Adaptive ability is inherited and has a genetic basis, allowing organisms to survive and thrive in their environment.",
+    "ground_truths":"Organisms adapt to their environment through inherited traits that improve survival and reproduction. Adaptations develop over many generations through natural selection, where individuals with beneficial traits have higher survival rates and reproduce more successfully, passing these traits to offspring.",
+    "similarity_ratio":0.1158536585,
+    "token_overlap":0.4545454545,
+    "source_files":[
+      "6. Evolution.pdf"
+    ],
+    "bleu":0.0771506422,
+    "rouge_l":0.2058823529,
+    "cosine_sim":0.8480179906
+  },
+  {
+    "question":"What role does photosynthesis play in ecosystems?",
+    "answer":"Photosynthesis plays a crucial role in ecosystems as it is the process by which plants and photosynthetic bacteria fix sunlight's radiant energy to make food from simple inorganic materials. This energy is then captured by plants, which sustain the entire living world, and is passed on to consumers through the food chain or web. In essence, photosynthesis is the foundation of the energy flow in ecosystems, providing the energy that supports the entire food chain, from producers to consumers.",
+    "ground_truths":"Photosynthesis is the fundamental process that converts light energy from the sun into chemical energy in the form of glucose, which serves as the primary energy source for virtually all life on Earth. It is the foundation of food chains and is performed by plants, algae, and some bacteria.",
+    "similarity_ratio":0.0533672173,
+    "token_overlap":0.4615384615,
+    "source_files":[
+      "12. Ecosystem.pdf"
+    ],
+    "bleu":0.0634160893,
+    "rouge_l":0.2480620155,
+    "cosine_sim":0.7801168561
+  },
+  {
+    "question":"Explain the concept of biodiversity",
+    "answer":"The concept of biodiversity is not explicitly explained in the given context, but it is mentioned in the context of evolution of life forms on planet earth. It refers to the variety of life forms that have evolved over millions of years on earth. The study of evolutionary biology aims to understand the history of life forms on earth, including the origin of life, evolution of life forms, and the resulting biodiversity. However, a detailed explanation of biodiversity is not provided in the given context.",
+    "ground_truths":"Biodiversity refers to the variety of all living organisms, ecosystems, and genetic diversity within species. It is essential for ecosystem stability, resilience, and the provision of ecosystem services. High biodiversity enhances ecosystem productivity and reduces vulnerability to environmental changes.",
+    "similarity_ratio":0.024600246,
+    "token_overlap":0.2903225806,
+    "source_files":[
+      "12. Ecosystem.pdf",
+      "6. Evolution.pdf"
+    ],
+    "bleu":0.0617483563,
+    "rouge_l":0.1612903226,
+    "cosine_sim":0.7844979763
+  }
+]
